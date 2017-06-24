@@ -1,6 +1,6 @@
 {
   "name": "string-url-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple lightweight JavaScript library to extract urls from string.",
   "main": "urlExtractor.js",
   "scripts": {
