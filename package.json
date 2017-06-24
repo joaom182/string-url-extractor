@@ -1,5 +1,5 @@
 {
-  "name": "url-extractor",
+  "name": "string-url-extractor",
   "version": "1.0.0",
   "description": "A simple lightweight JavaScript library to extract urls from string.",
   "main": "urlExtractor.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaom182/url-extractor.git"
+    "url": "git+https://github.com/joaom182/string-url-extractor.git"
   },
   "keywords": [
     "javascript",
@@ -19,7 +19,7 @@
   "author": "João M.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joaom182/url-extractor/issues"
+    "url": "https://github.com/joaom182/string-url-extractor/issues"
   },
-  "homepage": "https://github.com/joaom182/url-extractor#readme"
+  "homepage": "https://github.com/joaom182/string-url-extractor#readme"
 }
